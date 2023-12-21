@@ -1,0 +1,62 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.center-image
+{
+  display: flex;
+}
+
+.navbar a:hover {
+      background-color: #ddd;
+      color: black;
+}
+
+.navbar a {
+      float: left;
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+.navbar {
+      overflow: hidden;
+      background-color: #333;
+    }
+
+.bkcolor1
+{
+  width: 100%; 
+  height: auto;
+  
+}
+
+.contact
+{
+  background-color: black;
+}
+
+.text
+{
+  color: white;
+}
+
+.text1
+{
+  text-size-adjust: 20px;
+}
+
+.table
+{
+  border: 1px;
+  border-color: black;
+}
+
+.riquadro
+{
+  margin-left: 30%;
+  justify-content: center;
+}
